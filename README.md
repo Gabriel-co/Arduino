@@ -31,3 +31,8 @@ This assighnment had me using two buttons instead of one to activate 2 LEDs.
 #proof
 https://create.arduino.cc/editor/groyste20/23cbe12d-d89a-4589-97cb-0f49d00fe20c
 
+#Servo Control
+#description
+I made a circuit that made my servo move with 2 buttons.
+#proof
+https://create.arduino.cc/editor/groyste20/b041ba02-fed9-424d-ac0a-ad8cb77def16
